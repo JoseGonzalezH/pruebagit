@@ -10,7 +10,7 @@
 	<p>Este parrafo esta programado en lenguaje HTML</p>
 	
 	<?php
-		echo "Este es un Mensaje Nuevo<br>";
+		echo "Uso de Jenkins - Git - GitHub<br>";
 	    echo "Hola Mundo";
 		echo "<br><br>";
 		echo "Curso de Programación IV";
