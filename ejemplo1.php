@@ -10,7 +10,8 @@
 	<p>Este parrafo esta programado en lenguaje HTML</p>
 	
 	<?php
-		echo "Hola Mundo";
+		echo "Este es un Mensaje Nuevo<br>";
+	    echo "Hola Mundo";
 		echo "<br><br>";
 		echo "Curso de Programación IV";
 		print("<p> Este es un parrafo creado con la funcion print </p>");
