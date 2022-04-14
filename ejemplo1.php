@@ -11,6 +11,7 @@
 	
 	<?php
 		echo "Uso de Jenkins - Git - GitHub<br>";
+	error
 	    echo "Hola Mundo";
 		echo "<br><br>";
 		echo "Curso de Programación IV";
